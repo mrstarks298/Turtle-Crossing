@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Turtle+Crossing+Game+🐢🚗!;Can+you+cross+safely%3F;Dodge+the+cars+and+win!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Turtle+Crossing+Game+🐢🚗!;Can+you+cross+safely%3F;Dodge+the+cars+and+win!" alt="Typing SVG" />
 </h1>
 ## Description
 Turtle Crossing is a simple arcade-style game implemented in Python using the Turtle graphics library. The player controls a turtle that must cross a busy highway while avoiding cars. As the player progresses, the difficulty increases with faster-moving cars. The game features a cool typing effect in its header display.
