@@ -1,4 +1,4 @@
-h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Turtle+Crossing+Game+🐢🚗!;Can+you+cross+safely%3F;Dodge+the+cars+and+win!" alt="Typing SVG" />
 </h1>
 
